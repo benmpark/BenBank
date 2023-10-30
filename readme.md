@@ -22,6 +22,7 @@ The program will bring you to the main menu, where you'll have a series of actio
 9. Close an Account
 10. Add Monthly Interest to All Acounts
 11. End Program
+
 At the beginning you will have to open an account, as all other options (other than quitting) won't make sense if there are no open accounts. As you are opening your account, note your account number and PIN, as you will need to enter those each time you wish to perform an action relating to your account. (And there need to be at least two accounts open if you want to attempt transferring funds between accounts.)
 
 ## Documentation
