@@ -4,7 +4,7 @@
 This repository contains a basic banking application with various (simulated) functions (i.e., you cannot use this program to actually add money to your real bank account!). The main menu, which lists the actions that the user can perform, is detailed below. This application was created as part of a final project for a Foundations of Program class at Merrimack College (CSC6003).
 
 ## Installation and Running the Programs
-Once you have [Python](https://www.python.org/downloads/) installed on your machine, you are almost good to go. The entry point for running the program is the **parkfinal.py** file; all the other Python files must be in the same directory, of course (this includes **BenAccount.py**, **BenATMachine.py**, **BenBank.py**, **BenBankManager.py**, **BenBankUtility.py**, and **BenCoinCollector.py**. Running the **BenBank.py** file is sufficient, as functions are drawn from the other files with the necessary import statements.
+Once you have [Python](https://www.python.org/downloads/) installed on your machine, you are almost good to go. The included **BankofBen.zip** file contains several .py files and a documentation folder, too; the entry point for running the program is the **parkfinal.py** file (which will be visible once everything is unzipped); all the other Python files must be in the same directory, of course (this includes **BenAccount.py**, **BenATMachine.py**, **BenBank.py**, **BenBankManager.py**, **BenBankUtility.py**, and **BenCoinCollector.py**. Running the **BenBank.py** file is sufficient, as functions are drawn from the other files with the necessary import statements.
 
 Once in the proper directory, the program can be run via the following command:
 `python3 parkfinal.py`
